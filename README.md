@@ -12,7 +12,7 @@ Data Scientist / Data Engineer
 - 😄 Pronouns: Techie
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=69132&format=png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000"/>  <img height="50" width="50" src="https://icons8.com/icon/VLKafOkk3sBX/azure-1" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=48&id=69132&format=png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000"/>  <img height="50" width="50" src="[https://icons8.com/icon/VLKafOkk3sBX/azure-1](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)" />
 
 
 
